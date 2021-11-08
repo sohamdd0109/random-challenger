@@ -62,31 +62,37 @@
 .headw {
     font-family: 'Fruktur', cursive;
     color: white;
+    text-align: center;
 }
 
 .headb {
     font-family: 'Fruktur', cursive;
     color: black;
+    text-align: center;
 }
 
 .headg {
     font-family: 'Fruktur', cursive;
     color: rgb(30, 255, 0);
+    text-align: center;
 }
 
 .head2w {
     font-family: 'Mochiy Pop P One', sans-serif;
     color: white;
+    text-align: center;
 }
 
 .head2b {
     font-family: 'Mochiy Pop P One', sans-serif;
     color: rgb(0, 0, 0);
+    text-align: center;
 }
 
 .head2g {
     font-family: 'Mochiy Pop P One', sans-serif;
     color: rgb(30, 255, 0);
+    text-align: center;
 }
 
 .r {
